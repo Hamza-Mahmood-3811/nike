@@ -11,3 +11,13 @@ Currently, two official plugins are available:
 ## Resources used
 
 - [Nike Favicon](https://www.iconfinder.com/icons/294668/nike_icon)
+
+### Technologies
+
+- [Vite](https://vitejs.dev/guide/)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+- [React](https://react.dev/learn)
+
+### JSMastery
+
+- [ Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website ](https://www.youtube.com/watch?v=tS7upsfuxmo&t=893s&ab_channel=JavaScriptMastery)
