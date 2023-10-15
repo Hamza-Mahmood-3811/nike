@@ -21,3 +21,9 @@ Currently, two official plugins are available:
 ### JSMastery
 
 - [ Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website ](https://www.youtube.com/watch?v=tS7upsfuxmo&t=893s&ab_channel=JavaScriptMastery)
+
+## Optional Features(Not Yet Implemented)
+
+- Make the Popular Products Card component image clickable so that it leads to another page
+    -  Product Details Page
+- 
